@@ -1,0 +1,5 @@
+# Created at 2026-04-17T16:34:20.837
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Vinod\Workspace\simplewebapp.zip_expanded\simplewebapp\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
